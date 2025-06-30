@@ -26,7 +26,7 @@ export default function Index() {
         gap: 10,
       }}
     >
-      <Text style={{ color: "#0D0F13", fontSize: 28, fontWeight: 700, textAlign: "center", marginBottom: 34 }}>
+      <Text style={{ color: "#0D0F13", fontSize: 36, fontWeight: 700, textAlign: "center", marginBottom: 34, paddingHorizontal: 20 }}>
         Say hello to your new app
       </Text>
 
